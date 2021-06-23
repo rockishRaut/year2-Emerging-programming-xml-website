@@ -1,0 +1,256 @@
+Music_Lover {
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    linear-gradient(127deg, rgba(19, 233, 19, 0.8), rgba(64, 207, 172, 0) 70.71%),
+    linear-gradient(336deg, rgba(199, 23, 140, 0.8), rgba(219, 13, 116, 0) 70.71%);
+    
+    margin-bottom: 20px;
+    padding: 5px;
+    margin: auto;
+    width: 50%;
+    border: solid 2px black;
+    display: block;
+}
+
+Store_Details {
+    display: block;
+    border: groove 3px #000000;
+    box-shadow: 10px 10px 44px #000000;
+    text-align: center;
+    background-color: rgb(60 224 60);
+    border-radius: 20px;
+    margin: 1pc;
+}
+
+store_Address,
+Telephone,
+Website,
+E-mail {
+    display: block;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 13pt;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    border-radius: 20pc;
+}
+
+description {
+    padding: 10%;
+}
+
+Store_Details>store_Name {
+    display: block;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 20pt;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 20pc;
+    color: Red;
+}
+
+Songs {
+    background-color: #309646;
+    display: block;
+    border: 2px solid #33495e;
+    margin: 20px;
+    padding: 2em;
+    border-radius: 20px;
+}
+
+song {
+    display: block;
+    border: groove 2px black;
+    text-align: center;
+    font-size: 1em;
+    background-color: #11ff8c;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+song_name {
+    background-color: rgba(215, 151, 200, 0.9);
+    font-size: 100%;
+    margin: 3px;
+    size: 13px;
+    font-family: Verdana;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+}
+
+song_iD::before {
+    content: "Music ID";
+}
+
+album,
+genre,
+Singer,
+musician,
+director,
+producer,
+label,
+release_date,
+length,
+price,
+download_link {
+    display: block;
+    font-family: Times New Roman;
+    font-size: 11pt;
+    font-weight: bold;
+    list-style: disc;
+    margin-left: 10px;
+}
+
+song>photo[photo_num="countingstar"] {
+    background-image: url('photos/countingstar.png');
+    width: 180px;
+    background-repeat: no-repeat;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="before you go"] {
+    background-image: url('photos/beforeyougo.png');
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -190px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="memories"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/memories.png');
+    width: 180px;
+    height: 160px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 250px;
+}
+
+song>photo[photo_num="what do you mean"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/whatdoyoumean.png');
+    width: 180px;
+    height: 150px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="love me like you do"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/love me like you do.png');
+    width: 180px;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="boley chudiya"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/boley chudiya.jpg');
+    width: 190px;
+    height: 100px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -130px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 190px;
+}
+
+song>photo[photo_num="closer"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/closer.png');
+    width: 180px;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="its you"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/its you.png');
+    width: 200px;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 250px;
+}
+
+song>photo[photo_num="perfect"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/perfect.jpg');
+    width: 180px;
+    height: 150px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+song>photo[photo_num="see you again"] {
+    background-repeat: no-repeat;
+    background-image: url('photos/beforeyougo.png');
+    width: 180px;
+    height: 170px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -300px;
+    border-radius: 10px;
+    border: groove 3px #000000;
+    background-size: 180px;
+}
+
+Logo {
+    background-image: url('photos/logo.png');
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 110px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -110px;
+    margin-left: -23%;
+    border-radius: 10px;
+    background-size: 180px;
+}

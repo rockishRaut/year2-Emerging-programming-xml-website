@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ <?xml-stylesheet href="catalog_19031815.css" type="text/css"?> 
+ <!-- <!DOCTYPE Music_Lover SYSTEM "catalog_19031815.dtd">  -->
+<Music_Lover xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_19031815.xsd"> 
+      
+  
+    <Store_Details>
+        <store_Name>Music Lover </store_Name>
+        <store_Address>Itahari-17</store_Address>
+        <Telephone>025586687</Telephone>
+        <Website>https://www.musicLover.com</Website>
+        <E-mail>musiclover@gmail.com</E-mail>
+        <Logo></Logo>
+    </Store_Details>
+
+    <Songs>
+        <song>
+            <song_name song_id="Song1">Counting Star</song_name>
+           
+            <album>Third Studio</album>
+            <genre>Folk song</genre>
+            <singers>
+                <singer singer_id="S1" singer_Age="34" Gender="Male">(Ryan Tedder)</singer>
+                
+            </singers>
+            <musicians>
+                <musician>Noel Zancanelly</musician>
+            </musicians>
+            <director>One republic</director>
+            <producers>
+                <producer>Ryan Tedder</producer>
+                <producer>Noel Zancanelly</producer>
+            </producers>
+            <label>Mosley.Interscope</label>
+            <release_date>2013/06/14</release_date>
+            <length>4:19</length>
+            <photo photo_num="countingstar"></photo>
+            <price>$2</price>
+            <download_link></download_link>
+            <description>"Counting Stars" is a song by American pop rock band OneRepublic from their third studio album, Native (2013). The song was written by lead singer Ryan Tedder, and produced by Tedder and Noel Zancanella. It was released as the album's second single on June 14, 2013.
+
+            </description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song2" >Before You Go</song_name>
+            <album>DUTHE</album>
+            <genre>Soft POP</genre>
+            <singers>
+                <singer singer_id="S2" singer_Age="30" Gender="Male"> &#160;(Lewis capaldi)</singer>
+            </singers>
+            <musicians>
+                <musician>Benkohn</musician>
+                <musician>Pete Kellener</musician>
+                <musician>Tom Bames</musician>
+            </musicians>
+            <director>Rory Dewar</director>
+            <producers>
+                <producer>Benkohn</producer>
+                <producer>Pete Kellener</producer>
+                <producer>Tom Bames</producer>
+            </producers>
+            <label>Vertico Berlin.Universal</label>
+            <release_date>2019/11/19</release_date>
+            <length>3:36</length>
+            <photo photo_num="before you go"></photo>
+            <price>$2.36</price>
+            <download_link></download_link>
+            <description>"Before You Go" is a song by Scottish singer-songwriter Lewis Capaldi, released as a single from the extended edition of his debut studio album Divinely Uninspired to a Hellish Extent on 19 November 2019. The song was made available upon pre-order of the extended edition.[1] The song was sent to US radio stations on 6 January 2020 as his second US single. </description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song3">Memories</song_name>
+          
+            <album></album>
+            <genre>Reffause POP roots rock</genre>
+            <singers>
+                <singer singer_id="S3" singer_Age="44" Gender="Male"> &#160;(Adam Levine)</singer>
+            </singers>
+            <musicians>
+                <musician>James Valentine</musician>
+                <musician>Johan Pachebel</musician>
+            </musicians>
+            <director>Maroon 5</director>
+            <producers>
+                <producer>Adam Levine</producer>
+            </producers>
+            <label>222.Interscope</label>
+            <release_date>2019/09/20</release_date>
+            <length>3:09</length>
+            <photo photo_num="memories"></photo>
+            <price>$3.09</price>
+            <download_link></download_link>
+            <description>"Memories" is a song by American band Maroon 5, released through 222 and Interscope Records on September 20, 2019.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song4">What Do You Mean</song_name>
+          
+            <album>Purpose</album>
+            <genre>Electro POP</genre>
+            <singers>
+                <singer singer_id="S4" singer_Age="27" Gender="Male"> &#160;(Justin Bieber)</singer>
+            </singers>
+            <musicians>
+                <musician>Rolling Stone</musician>
+            </musicians>
+            <director>Scooter Braun</director>
+            <producers>
+                <producer>Justin Bieber</producer>
+                <producer> MDL </producer>
+            </producers>
+            <label>Def jam</label>
+            <release_date>2015/08/28</release_date>
+            <length>3:26</length>
+            <photo photo_num="what do you mean"></photo>
+            <price>$3.26</price>
+            <download_link></download_link>
+            <description>"What Do You Mean?" is a song recorded by Canadian singer Justin Bieber for his fourth studio album Purpose (2015). The song was released on August 28, 2015, as the album's lead single by Def Jam.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song5">Love Me Like You Do</song_name>
+            <album>Fifty shades of grey</album>
+            <genre>Electro POP</genre>
+            <singers>
+                <singer singer_id="S5" singer_Age="36" Gender="Female"> &#160;(Ellie Glounding)</singer>
+            </singers>
+            <musicians>
+                <musician>Max Martin</musician>
+                <musician>Steven Gerrad</musician>
+            </musicians>
+            <director>MXM Studio</director>
+            <producers>
+                <producer>Max Martin</producer>
+                <producer>Alipayami</producer>
+            </producers>
+            <label>Cherrytree.Interscope.Republic</label>
+            <release_date>2015/01/07</release_date>
+            <length>4:13</length>
+            <photo photo_num="love me like you do"></photo>
+            <price>$4:13</price>
+            <download_link></download_link>
+            <description>"Love Me like You Do" is a song recorded by British singer Ellie Goulding for the soundtrack to the film Fifty Shades of Grey (2015). The song was written by Savan Kotecha, Ilya Salmanzadeh, Tove Lo, Max Martin and Ali Payami; the latter two also produced it. Goulding was selected to provide vocals to the track.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song6">Boley Chudiya Boley Kangana</song_name>
+            <album>kabhi khushi kabhie gham</album>
+            <genre>Folk song</genre>
+            <singers>
+                <singer singer_id="S6" singer_Age="41" Gender="Male"> &#160;(Sonu Nigam)</singer>
+               
+                <singer singer_id="S7" singer_Age="73" Gender="Male"> &#160;(Udit Narayan )</singer>
+
+                <singer singer_id="S8" singer_Age="46" Gender="Male"> &#160;(Amit kumar )</singer>
+
+                <singer singer_id="S9" singer_Age="60" Gender="Female"> &#160;(Kavita Krishnamurty )</singer>
+
+                <singer singer_id="S10" singer_Age="42" Gender="Male"> &#160;(Jatin Lalit )</singer>
+
+            </singers>
+            <musicians>
+                <musician>jatin lalit</musician>
+                <musician>sandesh shandilya</musician>
+                <musician>Aadesh shrivastava</musician>
+            </musicians>
+            <director>karan johar</director>
+            <producers>
+                <producer>yash johar</producer>
+            </producers>
+            <label>Boley chudiya</label>
+            <release_date>2001/12/14</release_date>
+            <length>6:44</length>
+            <photo photo_num="boley chudiya"></photo>
+            <price>$6.44</price>
+            <download_link></download_link>
+            <description>Boley Chudiya Boley Kangana is a bollyhood song from movie kabhi khusi kabhi gham.</description>
+
+        </song> <song>
+            <song_name song_id="Song7">Closer</song_name>
+            <album>joy division</album>
+            <genre>Future Bass</genre>
+            <singers>
+                <singer singer_id="S11" singer_Age="30" Gender="Male"> &#160;(The Chainsmokers)</singer>
+                <singer singer_id="S12" singer_Age="33" Gender="Female"> &#160;(Halsey)</singer>
+            </singers>
+            <musicians>
+                <musician>Harley Di Nardo</musician>
+                <musician>Derrek Hawkings</musician>
+                <musician>David Cartategui</musician>
+                <musician>Janathan Nanberg</musician>
+            </musicians>
+            <director>Mike nichols</director>
+            <producers>
+                <producer>Thechainsmokers</producer>
+            </producers>
+            <label>Disruptor.Columbia</label>
+            <release_date>2016/07/29</release_date>
+            <length>4:04</length>
+            <photo photo_num="closer"></photo>
+            <price>$4.4</price>
+            <download_link></download_link>
+            <description>"Closer" is a song by American DJ duo the Chainsmokers featuring American singer Halsey. Andrew Taggart (one half of the Chainsmokers) also provides his vocals in the song.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song8">Its you</song_name>
+            <album>Third Studio</album>
+            <genre>Electro POP</genre>
+            <singers>
+                <singer singer_id="S13" singer_Age="29" Gender="Male"> &#160;(Ali Gatie)</singer>
+            </singers>
+            <musicians>
+                <musician>Ali Gatie</musician>
+            </musicians>
+            <director>Ali Gatie</director>
+            <producers>
+                <producer>Happy Perez</producer>
+                <producer>Pop Wansel</producer>
+                <producer>Sam wish Adriano</producer>
+            </producers>
+            <label>Li$n.Warner</label>
+            <release_date>2019/06/14</release_date>
+            <length>3:32</length>
+            <photo photo_num="its you"></photo>
+            <price>$3.32</price>
+            <download_link></download_link>
+            <description>"It's You" is a song by Iraqi–Canadian singer and songwriter Ali Gatie, released as a single through Li$n and Warner Records on June 14, 2019. It debuted at number 97 on the US Billboard Hot 100 and peaked at number 70, becoming Gatie's first Hot 100 entry.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song9">Perfect</song_name>
+            <album>Perfect</album>
+            <genre>Reggaese Pop roots rock</genre>
+            <singers>
+                <singer singer_id="S14" singer_Age="38" Gender="Male"> &#160;(Ed Sherran)</singer>
+            </singers>
+            <musicians>
+                <musician>Ed Sherran</musician>
+            </musicians>
+            <director>Dp Jason Koenig</director>
+            <producers>
+                <producer>Honna Kimmerer</producer>
+            </producers>
+            <label>	
+                Asylum.Atlantic</label>
+            <release_date>2017/09/26</release_date>
+            <length>4:23</length>
+            <photo photo_num="perfect"></photo>
+            <price>$4.23</price>
+            <download_link></download_link>
+            <description>"Perfect" is a song by English singer-songwriter Ed Sheeran from his third studio album, ÷ (2017).[1] After the album's release, it charted at number four on the UK Singles Chart.</description>
+
+        </song>
+
+        <song>
+            <song_name song_id="Song10">See You Again</song_name>
+            <album>See You Again</album>
+            <genre>Hip hop.pop-rap</genre>
+            <singers>
+                <singer singer_id="S15" singer_Age="32" Gender="Male"> &#160;(Charlie Puth)</singer>
+                <singer singer_id="S16" singer_Age="35" Gender="Male"> &#160;(Wiz Khalifa)</singer>
+            </singers>
+            <musicians>
+                <musician>Wiz Khalifa</musician>
+                <musician>Dj frankie</musician>
+            </musicians>
+            <director>mark klasfeld</director>
+            <producers>
+                <producer>Dj frankie</producer>
+                <producer>Charlie puth</producer>
+                <producer>Andrew cedar</producer>
+            </producers>
+            <label>	Atlantic</label>
+            <release_date>2015/03/10</release_date>
+            <length>3:49</length>
+            <photo photo_num="see you again"></photo>
+            <price>$3.49</price>
+            <download_link></download_link>
+            <description>"See You Again" is a song by American rapper Wiz Khalifa, featuring American singer Charlie Puth. The track was commissioned for the soundtrack of the 2015 action film Furious 7 as a tribute to actor Paul Walker, who died in a single-vehicle accident on November 30, 2013.</description>
+
+        </song>
+
+        
+    </Songs>
+</Music_Lover>

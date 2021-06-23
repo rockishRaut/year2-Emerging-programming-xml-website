@@ -1,0 +1,42 @@
+<!ELEMENT Music_Lover (Store_Details, Songs)>
+<!ELEMENT Store_Details (store_Name, store_Address, Telephone, Website, E-mail, Logo)>
+<!ELEMENT store_Name (#PCDATA)>
+<!ELEMENT store_Address (#PCDATA)>
+<!ELEMENT Telephone (#PCDATA)>
+<!ELEMENT Website (#PCDATA)>
+<!ELEMENT E-mail (#PCDATA)>
+<!ELEMENT Logo (#PCDATA)>
+<!ELEMENT Songs (song+)>
+
+<!ELEMENT song (song_name+, album, genre?, singers+, musicians+, director?,  producers?, label, release_date, length, photo+, price?,  download_link, description)>
+
+<!ELEMENT song_name (#PCDATA)>
+<!ATTLIST song_name song_id ID #REQUIRED>
+
+<!ELEMENT album (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+
+<!ELEMENT singers (singer+)>
+<!ELEMENT singer (#PCDATA)>
+<!ATTLIST singer singer_id ID #REQUIRED>
+<!ATTLIST singer singer_Age CDATA #REQUIRED>
+<!ATTLIST singer Gender CDATA #REQUIRED>
+
+<!ELEMENT musicians (musician+)>
+<!ELEMENT musician (#PCDATA)>
+
+<!ELEMENT director (#PCDATA)>
+
+<!ELEMENT producers (producer+)>
+<!ELEMENT producer (#PCDATA)>
+
+
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT release_date (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT photo (#PCDATA)>
+<!ATTLIST photo photo_num CDATA #REQUIRED>
+
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT download_link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
